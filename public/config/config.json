@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x51787c17C684FD42aD600f6BB5eF5DDa2c2DC379",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x51787c17c684fd42ad600f6bb5ef5dda2c2dc379",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "CryptoBears",
+  "SYMBOL": "CB",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 40000000000000000000,
+  "DISPLAY_COST": 40,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": false
+}
